@@ -7,3 +7,4 @@ Accepts URL to be scanned, project name, creates project folder and begins the f
 1. HTTP Verb Enumeration
 2. SSL Cipher Check
 3. Scan Services with version detection
+4. More to come...
